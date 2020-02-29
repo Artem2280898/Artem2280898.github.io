@@ -1,1 +1,1 @@
-[/Gallery-master/index.html](Галерея)
+[Галерея](/Gallery-master/index.html)
